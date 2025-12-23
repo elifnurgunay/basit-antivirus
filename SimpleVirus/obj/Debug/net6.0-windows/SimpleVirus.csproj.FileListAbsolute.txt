@@ -1,0 +1,14 @@
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\bin\Debug\net6.0-windows\SimpleVirus.exe
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\bin\Debug\net6.0-windows\SimpleVirus.deps.json
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\bin\Debug\net6.0-windows\SimpleVirus.runtimeconfig.json
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\bin\Debug\net6.0-windows\SimpleVirus.dll
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\bin\Debug\net6.0-windows\SimpleVirus.pdb
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\SimpleVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\SimpleVirus.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\SimpleVirus.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\SimpleVirus.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\SimpleVirus.dll
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\refint\SimpleVirus.dll
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\SimpleVirus.pdb
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\SimpleVirus.genruntimeconfig.cache
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleVirus\obj\Debug\net6.0-windows\ref\SimpleVirus.dll

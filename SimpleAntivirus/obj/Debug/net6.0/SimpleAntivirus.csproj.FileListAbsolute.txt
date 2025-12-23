@@ -1,0 +1,14 @@
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\bin\Debug\net6.0\SimpleAntivirus.exe
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\bin\Debug\net6.0\SimpleAntivirus.deps.json
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\bin\Debug\net6.0\SimpleAntivirus.runtimeconfig.json
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\bin\Debug\net6.0\SimpleAntivirus.dll
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\bin\Debug\net6.0\SimpleAntivirus.pdb
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\SimpleAntivirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\SimpleAntivirus.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\SimpleAntivirus.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\SimpleAntivirus.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\SimpleAntivirus.dll
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\refint\SimpleAntivirus.dll
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\SimpleAntivirus.pdb
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\SimpleAntivirus.genruntimeconfig.cache
+C:\Users\MSI\OneDrive\Masaüstü\basit antivirüs\SimpleAntivirus\obj\Debug\net6.0\ref\SimpleAntivirus.dll

@@ -1,0 +1,28 @@
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build çıktıları
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Logs
+*.log
+Logs/
+log/
+logs/
+
+# Test klasörü (projende oluşturulan)
+TestFolder/
+
+# OS
+.DS_Store
+Thumbs.db
