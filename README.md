@@ -1,4 +1,7 @@
 # Basit Virüs ve Antivirüs Projesi
+<img width="764" height="770" alt="Ekran görüntüsü 2025-12-23 231516" src="https://github.com/user-attachments/assets/10fd67a9-c1f5-4a0e-bfa6-dcca9c9412de" />
+
+<img width="1535" height="766" alt="Ekran görüntüsü 2025-12-23 231525" src="https://github.com/user-attachments/assets/2d6149ad-dc93-4ade-8e83-c897e50444ef" />
 
 Bu proje, eğitim amaçlı olarak geliştirilmiş basit bir virüs ve antivirüs uygulamasıdır.
 
@@ -9,19 +12,6 @@ Bu proje, eğitim amaçlı olarak geliştirilmiş basit bir virüs ve antivirüs
 - Virüs sadece test klasöründe çalışır
 - Her zaman `Ctrl+Shift+Q` tuş kombinasyonu ile kapatılabilir
 
-## 📁 Proje Yapısı
-
-```
-basit antivirüs/
-├── SimpleVirus/          # Klavye kilitleyen basit virüs
-│   ├── SimpleVirus.csproj
-│   ├── Program.cs
-│   └── KeyboardHook.cs
-├── SimpleAntivirus/      # Virüsü tespit edip temizleyen antivirüs
-│   ├── SimpleAntivirus.csproj
-│   └── Program.cs
-└── README.md
-```
 
 ## 🚀 Kullanım
 
@@ -31,11 +21,6 @@ basit antivirüs/
 - Windows işletim sistemi
 - Visual Studio 2022 veya Visual Studio Code
 
-### SimpleVirus'ü Çalıştırma
-
-1. Visual Studio'da `SimpleVirus` projesini açın
-2. Projeyi derleyin (Build)
-3. Projeyi çalıştırın (Run)
 
 **Ne Yapar:**
 - Klavyeyi kilitler (tüm tuş girişlerini engeller)
@@ -46,10 +31,6 @@ basit antivirüs/
 - `Ctrl+Shift+Q` tuşlarına basarak güvenli şekilde kapatabilirsiniz
 
 ### SimpleAntivirus'ü Çalıştırma
-
-1. Visual Studio'da `SimpleAntivirus` projesini açın
-2. Projeyi derleyin (Build)
-3. Projeyi çalıştırın (Run)
 
 **Ne Yapar:**
 - Çalışan SimpleVirus proseslerini tespit eder
